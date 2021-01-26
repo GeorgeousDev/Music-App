@@ -6,7 +6,7 @@ import "../Styles/Nav.css";
 const Nav = ({ libraryStatus, setLibraryStatus }) => {
 	return (
 		<nav>
-			<h1>Skill Code</h1>
+			<h1>Georgeous Dev</h1>
 			<button onClick={() => setLibraryStatus(!libraryStatus)}>
 				Library
 				<FontAwesomeIcon icon={faMusic} />
