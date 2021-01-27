@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/GeorgeousDev/Music-App/static/css/main.918c0e89.chunk.css",
-    "main.js": "/GeorgeousDev/Music-App/static/js/main.da43fad3.chunk.js",
-    "main.js.map": "/GeorgeousDev/Music-App/static/js/main.da43fad3.chunk.js.map",
-    "runtime-main.js": "/GeorgeousDev/Music-App/static/js/runtime-main.defa3eed.js",
-    "runtime-main.js.map": "/GeorgeousDev/Music-App/static/js/runtime-main.defa3eed.js.map",
-    "static/js/2.774ef996.chunk.js": "/GeorgeousDev/Music-App/static/js/2.774ef996.chunk.js",
-    "static/js/2.774ef996.chunk.js.map": "/GeorgeousDev/Music-App/static/js/2.774ef996.chunk.js.map",
-    "index.html": "/GeorgeousDev/Music-App/index.html",
-    "static/css/main.918c0e89.chunk.css.map": "/GeorgeousDev/Music-App/static/css/main.918c0e89.chunk.css.map",
-    "static/js/2.774ef996.chunk.js.LICENSE.txt": "/GeorgeousDev/Music-App/static/js/2.774ef996.chunk.js.LICENSE.txt"
+    "main.css": "/Music-App/static/css/main.918c0e89.chunk.css",
+    "main.js": "/Music-App/static/js/main.da43fad3.chunk.js",
+    "main.js.map": "/Music-App/static/js/main.da43fad3.chunk.js.map",
+    "runtime-main.js": "/Music-App/static/js/runtime-main.e815d55d.js",
+    "runtime-main.js.map": "/Music-App/static/js/runtime-main.e815d55d.js.map",
+    "static/js/2.774ef996.chunk.js": "/Music-App/static/js/2.774ef996.chunk.js",
+    "static/js/2.774ef996.chunk.js.map": "/Music-App/static/js/2.774ef996.chunk.js.map",
+    "index.html": "/Music-App/index.html",
+    "static/css/main.918c0e89.chunk.css.map": "/Music-App/static/css/main.918c0e89.chunk.css.map",
+    "static/js/2.774ef996.chunk.js.LICENSE.txt": "/Music-App/static/js/2.774ef996.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.defa3eed.js",
+    "static/js/runtime-main.e815d55d.js",
     "static/js/2.774ef996.chunk.js",
     "static/css/main.918c0e89.chunk.css",
     "static/js/main.da43fad3.chunk.js"
